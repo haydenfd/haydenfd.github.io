@@ -1,3 +1,3 @@
 # Personal Website
 
-Source code for my [https://haydenfd.github.io](personal website).
+Source code for my [personal website](https://haydenfd.github.io).
